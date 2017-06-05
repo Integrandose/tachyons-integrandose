@@ -51,7 +51,7 @@
  --white-025: rgba(255,255,255,.025);
  --white-0125: rgba(255,255,255,.0125);
 
-  --dark-red:  #e7040f;
+  --dark-red:  #E51818;
   --red:  #ff4136;
   --light-red:  #ff725c;
   --orange:  #ff6300;
@@ -77,4 +77,10 @@
   --washed-yellow:  #fffceb;
   --washed-red:  #ffdfdf;
 
+
+  --dark-blue-int: #1D496D;
+  --green-int: #A8C12E;
+  --gray-int: #CCCCCC;
+
+  --pink-vtex: #FF3366;
 }

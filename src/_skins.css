@@ -71,6 +71,11 @@
 .washed-red { color: var(--washed-red); }
 .color-inherit { color: inherit; }
 
+.dark-blue-int { color: var(--dark-blue-int); }
+.green-int { color: var(--green-int); }
+.gray-int { color: var(--gray-int); }
+.pink-vtex { color: var(--pink-vtex); }
+
 .bg-black-90 {         background-color: var(--black-90); }
 .bg-black-80 {         background-color: var(--black-80); }
 .bg-black-70 {         background-color: var(--black-70); }
@@ -134,3 +139,8 @@
 .bg-washed-yellow { background-color: var(--washed-yellow); }
 .bg-washed-red { background-color: var(--washed-red); }
 .bg-inherit { background-color: inherit; }
+
+.bg-dark-blue-int { background-color: var(--dark-blue-int); }
+.bg-green-int { background-color: var(--green-int); }
+.bg-gray-int { background-color: var(--gray-int); }
+.bg-pink-vtex { background-color: var(--pink-vtex); }
